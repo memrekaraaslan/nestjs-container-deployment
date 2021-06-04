@@ -1,4 +1,3 @@
-# Atolye15 Demo
 
 Bu ekrana sadece Hello world yazdiran basit bir Nest.JS uygulamasi. Senden asagidaki sekilde bir pipeline olusturmani bekliyoruz;
 
